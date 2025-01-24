@@ -33,8 +33,8 @@ Before you begin, make sure you have the following installed:
 ### 1. Clone the Repository
 Use the following commands to clone the repository and open it in Visual Studio Code:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/WhiteboxHub/Easy_apply_linkedin.git
+cd Easy_apply_linkedin
 code .
 ```
 
